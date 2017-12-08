@@ -21,8 +21,6 @@ var data = [
 ];
 data.push(Object.assign({}, data));
 
-//depth1p3 : "longs tring with  四 𠜎",
-
 
 describe('serialize', async () => {
   it('should pass  all exemples ', async () => {
