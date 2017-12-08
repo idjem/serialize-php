@@ -2,7 +2,7 @@ language: node_js
 node_js:
 - 8
 before_install:
-  - sudo apt-get install php
+  - sudo apt-get install php5
 after_script:
   - npm test
   
