@@ -1,3 +1,4 @@
 module.exports = {
-  serialize   : require('./serialize')
-}
+  serialize   : require('./serialize'),
+  unserialize : require('./unserialize')
+};
