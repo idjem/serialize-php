@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/idjem/serialize-php.git"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
